@@ -10,7 +10,7 @@ Written using HTML5, CSS3 and JavaScript.
 <img src ="joketeller_ss.png" width=500>
 
 ### Gif source
-[Click here](https://giphy.com/gifs/3d-run-bird-l44Qyujrx0ETrmqis) to access the gif source.
+Gif is from Giphy.com by artist [@tymus](https://giphy.com/gifs/3d-run-bird-l44Qyujrx0ETrmqis).
 
 ### Project Source
 [Click here](https://www.udemy.com/course/javascript-web-projects-to-build-your-portfolio-resume/) to access the project source.
