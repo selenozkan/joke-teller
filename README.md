@@ -1,7 +1,7 @@
 #  Joke Teller
 #
 
-Generating random geek jokes about programming, by a chicken who loves to laugh at her own jokes! 
+Generating random geek jokes about programming, by an excited chicken who loves to laugh at her own jokes! 
 Written using HTML5, CSS3 and JavaScript.
 
 # Live Project
